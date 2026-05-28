@@ -1,6 +1,6 @@
 # 📊 E-Commerce Customer Churn Prediction 
 
-A modern SaaS-style machine learning dashboard for predicting customer churn using **LightGBM** and **Streamlit**.
+A modern machine learning dashboard for predicting customer churn using **LightGBM** and **Streamlit**.
 
 This project helps businesses identify high-risk customers, analyze churn probability, and make data-driven retention decisions through an interactive dashboard.
 
