@@ -1,4 +1,4 @@
-# 📊 E-Commerce Customer Churn Prediction Dashboard
+# 📊 E-Commerce Customer Churn Prediction 
 
 A modern SaaS-style machine learning dashboard for predicting customer churn using **LightGBM** and **Streamlit**.
 
